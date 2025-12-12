@@ -25,14 +25,14 @@ ul {
     color: #f4f4fd;
 }
 
-span {
+.weblogo {
     color: #4d5ae5;
     text-decoration: none;
     display: inline-block;
 }
 
 .header-navigation .link,
-.header-navigation .link-golovna {
+.header-navigation .link-webstudio {
     color: #2e2f42;
     text-decoration: none;
     letter-spacing: 0.02em;
@@ -46,12 +46,12 @@ span {
     color: #404bbf;
 }
 
-.header-navigation .link-golovna:hover,
-.header-navigation .link-golovna:focus {
+.header-navigation .link-webstudio:hover,
+.header-navigation .link-webstudio:focus {
     color: #404bbf;
 }
 
-.header-navigation .link-golovna:active {
+.header-navigation .link-webstudio:active {
     text-decoration: underline;
 }
 
